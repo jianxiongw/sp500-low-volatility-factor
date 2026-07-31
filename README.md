@@ -14,4 +14,4 @@ The code is structured into:
 - `src/data_loader.py` for data ingestion,
 - `src/factor.py` for volatility computation,
 - `src/returns.py` and `src/backtest.py` for monthly returns and portfolio backtesting,
-- `notebooks/01_explore_volatility.ipynb` for exploratory analysis and plots.
+- `notebooks/explore_volatility.ipynb` for exploratory analysis and plots.
